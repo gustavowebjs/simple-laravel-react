@@ -32,7 +32,7 @@
     },
     "dependencies": {
         "laravel-mix": "^6.0.6",
-        "lodash": "^4.17.19",
+        "lodash": "^4.5.0",
         "axios": "^0.21",
         "react": "^16.2.0",
         "react-dom": "^16.2.0"
