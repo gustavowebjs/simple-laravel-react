@@ -6,4 +6,4 @@
 
 ## Simple laravel boilerplate with first ReactJs configs
 
-We are writing readme for this project yet
+We are writing a readme for this project yet
