@@ -12,6 +12,8 @@
 </head>
 
 <body>
+
+    <!-- INCLUDE REACT COMPONENT  -->
     <div id="example"></div>
 </body>
 
